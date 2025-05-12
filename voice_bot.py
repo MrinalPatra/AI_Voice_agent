@@ -11,7 +11,7 @@ import io
 from pygame import mixer
 
 # Configure Gemini API
-GOOGLE_API_KEY = "AIzaSyD4Ooz9Nh5f2f_QTmCsoWMV7-yZvBXD-fs"  # Replace with your actual API key
+GOOGLE_API_KEY = "your-Gemini-api-key"  # Replace with your actual API key
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # Initialize Gemini model
